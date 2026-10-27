@@ -2,7 +2,7 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
   <Id>69ff1d7d-3cca-4197-a95c-2f2110bfaa55</Id><Version>1.0.0.0</Version><ProviderName>Personal</ProviderName><DefaultLocale>uz-UZ</DefaultLocale>
   <DisplayName DefaultValue="Google Search for Word"/><Description DefaultValue="Google and Google Scholar search from Word"/>
-  <IconUrl DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/word-google-search/assets/icon-32.png"/><HighResolutionIconUrl DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/word-google-search/assets/icon-80.png"/><SupportUrl DefaultValue="https://support.microsoft.com/office"/>
+  <IconUrl DefaultValue="https://fakhritdin.github.io/word-google-search/assets/icon-32.png"/><HighResolutionIconUrl DefaultValue="https://fakhritdin.github.io/word-google-search/assets/icon-80.png"/><SupportUrl DefaultValue="https://support.microsoft.com/office"/>                                                                                                                                                                                                  
   <AppDomains><AppDomain>https://www.google.com</AppDomain><AppDomain>https://scholar.google.com</AppDomain></AppDomains>
-  <Hosts><Host Name="Document"/></Hosts><DefaultSettings><SourceLocation DefaultValue="https://YOUR-GITHUB-USERNAME.github.io/word-google-search/taskpane.html"/></DefaultSettings><Permissions>ReadDocument</Permissions>
+  <Hosts><Host Name="Document"/></Hosts><DefaultSettings><SourceLocation DefaultValue="https://fakhritdin.github.io/word-google-search/taskpane.html"/></DefaultSettings><Permissions>ReadDocument</Permissions>
 </OfficeApp>
